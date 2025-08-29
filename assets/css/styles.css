@@ -254,7 +254,7 @@ img{
 /*  SKILLS */
 .skills__container{
     row-gap: 2rem;
-    height: 500px;
+    height: 300px;
 }
 .skills__subtitle{
     color: var(--first-color);
@@ -448,11 +448,11 @@ img{
         padding: 4rem 0;
     }
     .about__img{
-        width: 200px;
-        height: 200px;
+        width: 300px;
+        height: 400px;
     }
     .about__img img{
-        width: 165px;
+        width: 465px;
     }
 
     .skills__container{
